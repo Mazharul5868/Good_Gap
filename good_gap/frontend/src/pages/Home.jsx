@@ -169,7 +169,7 @@ export default function Home() {
 
             <div className="field fullWidth">
               <button className="cta-button" type="submit">
-                Submit Demo Request
+                Submit Feedback
               </button>
             </div>
           </form>
